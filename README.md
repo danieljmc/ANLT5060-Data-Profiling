@@ -15,7 +15,7 @@ Profiling was performed using Python libraries including **pandas**, **numpy**, 
 | `missingness_summary.csv` | Missing data percentage by column. |
 | `vilahealth_stanthony_enriched.csv` | Enriched dataset with new date-based features (if shared). |
 | `box_presentations.png`, `hist_presentations.png`, etc. | Visualizations of numeric variable distributions. |
-| `ANLT5060-u01a1-Data Profiling Using Statistical Software.docx` | Optional academic paper submission describing the methodology. |
+
 
 ## 🧩 Requirements
 To run the profiling script, install dependencies:
